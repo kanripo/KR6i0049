@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 藥師琉璃光七佛本願功德經
+#+DATE: 2015-08-30 20:08:32.222318
+#+PROPERTY: JUAN 0
