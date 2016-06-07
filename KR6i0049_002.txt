@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:08:32.036363
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:28
 #+TITLE: 藥師琉璃光七佛本願功德經
 #+PROPERTY: CBETA_ID T14n0451
 #+PROPERTY: ID KR6i0049
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 451
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0049_T_002-0413c> 
 #+PROPERTY: JUAN 2
 ¶
-
- 《藥師琉璃光七佛本願功德經》卷¶
+《藥師琉璃光七佛本願功德經》卷¶
 下¶
 ¶
 大唐三藏法師義淨於佛光內寺譯¶
@@ -39,7 +38,7 @@
 師琉璃光如來名故，雖在惡趣，還得憶念¶
 彼如來名，即於彼沒，生在人中，得宿命¶
 智，念畏惡趣苦，不樂欲樂，好行惠施，¶
-讚歎施者，所有財物無慳悋心，漸次尚能¶
+讚歎施者，所有財物無慳悋心，慚次尚能¶
 以頭目、手足、血肉、身分施來求者，況餘財
 <pb:KR6i0049_T_002-0414a>¶
 物？¶
@@ -310,9 +309,9 @@
 　薄呼羅大將，
 　真達羅大將，¶
 　朱杜羅大將，
-　毘羯羅大將。
+　毘羯羅大將。」
 #+END_VERSE
-」¶
+¶
 
 此十二藥叉大將，一一各有七千藥叉以為¶
 眷屬，同時舉聲，白佛言：「世尊！我等今者，蒙¶
