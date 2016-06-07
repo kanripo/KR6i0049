@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:08:32.004101
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:28
 #+TITLE: 藥師琉璃光七佛本願功德經
 #+PROPERTY: CBETA_ID T14n0451
 #+PROPERTY: ID KR6i0049
